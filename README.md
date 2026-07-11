@@ -126,35 +126,7 @@ JWT_SECRET=YOUR_SECRET_KEY
 
 ---
 
-## 📷 Screenshots
 
-### Login Page
-
-> Add Screenshot Here
-
----
-
-### Dashboard
-
-> Add Screenshot Here
-
----
-
-### Hostel Management
-
-> Add Screenshot Here
-
----
-
-### Room Management
-
-> Add Screenshot Here
-
----
-
-### Bed Management
-
-> Add Screenshot Here
 
 ---
 
